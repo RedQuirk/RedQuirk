@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RedQuirk
+- 💂🏻‍♂️ Recreating the 32nd.net and 32ndregiment.com websites.
 - 👀 I’m interested in Python, LUA, C, networks and databases.
 - 🔨 At the moment I am working on my scripting ability to test applications.
 - 🎓 Studying pen testing.
