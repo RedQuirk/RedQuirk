@@ -12,8 +12,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-# Please be aware, I , do not endorse publicly disclosing a code-base. Therefore, I deploy to a local Cloud Environment.
-Thanks to my mentor
-
-@127...1/CyberChef-server
